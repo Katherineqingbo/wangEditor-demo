@@ -31,7 +31,7 @@ editor.create()
 ```
 
 
-## 运行 demo
+## 新建 demo
 
 - 下载源码 `git clone git@github.com:wangfupeng1988/wangEditor.git`
 - 安装或者升级最新版本 node（最低`v6.x.x`）
